@@ -1,0 +1,98 @@
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.csproj.AssemblyReference.cache
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.AssemblyInfo.cs
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.csproj.CoreCompileInputs.cache
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\WorkerEnrollmentsProcess.exe
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\WorkerEnrollmentsProcess.deps.json
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\WorkerEnrollmentsProcess.runtimeconfig.json
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\WorkerEnrollmentsProcess.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\ref\WorkerEnrollmentsProcess.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\WorkerEnrollmentsProcess.pdb
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\Serilog.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.Private.ServiceModel.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.ServiceModel.Http.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.ServiceModel.Security.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.csproj.CopyComplete
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\obj\Debug\net6.0\ref\WorkerEnrollmentsProcess.dll
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.pdb
+C:\Users\donal\OneDrive\Documentos\Curso Fullstack\Codigos 2022\Rabbitt\net\prod\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.genruntimeconfig.cache
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\WorkerEnrollmentsProcess.exe
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\WorkerEnrollmentsProcess.deps.json
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\WorkerEnrollmentsProcess.runtimeconfig.json
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\WorkerEnrollmentsProcess.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\WorkerEnrollmentsProcess.pdb
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\Serilog.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.Private.ServiceModel.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.ServiceModel.Http.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.ServiceModel.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.ServiceModel.Security.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.csproj.AssemblyReference.cache
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.AssemblyInfoInputs.cache
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.AssemblyInfo.cs
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.csproj.CoreCompileInputs.cache
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.csproj.CopyComplete
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\obj\Debug\net6.0\refint\WorkerEnrollmentsProcess.dll
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.pdb
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\obj\Debug\net6.0\WorkerEnrollmentsProcess.genruntimeconfig.cache
+D:\Documentos\Kinal\Proyectos\WorkerEnrollmentsProcess\obj\Debug\net6.0\ref\WorkerEnrollmentsProcess.dll
